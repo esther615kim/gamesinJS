@@ -1,3 +1,7 @@
 wk2//tic-tac-toe
+-버그1
+게임 끝나고 start 누르면 모달창(replay) 안 나오게 하기
+-버그2
+0누르면 승자확인 안됨!
 
-https://codesandbox.io/s/prep2tick-tack-toe-forked-gsc24?file=/src/styles.scss
+https://codesandbox.io/s/prep2tick-tack-toe-forked-f8b66?file=/src/index.js
